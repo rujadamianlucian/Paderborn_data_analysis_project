@@ -1,0 +1,14 @@
+# PyTorch (CUDA) is installed separately, see README:
+#   pip install torch --index-url https://download.pytorch.org/whl/cuXXX
+
+numpy
+scipy          # reading .mat files
+h5py           # HDF5
+pandas
+scikit-learn   # baseline + GroupKFold for the per-bearing split
+matplotlib
+PyQt5
+pyqtgraph
+tqdm
+ipykernel
+pytest

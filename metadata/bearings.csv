@@ -1,0 +1,33 @@
+bearing,damage_class,damage_origin,damage_method,extent,verified
+K001,healthy,none,,0,no
+K002,healthy,none,,0,no
+K003,healthy,none,,0,no
+K004,healthy,none,,0,no
+K005,healthy,none,,0,no
+K006,healthy,none,,0,no
+KA01,outer,artificial,EDM,1,no
+KA03,outer,artificial,electric engraver,2,no
+KA04,outer,real,lifetime test,1,yes
+KA05,outer,artificial,electric engraver,1,no
+KA06,outer,artificial,electric engraver,2,no
+KA07,outer,artificial,drilling,1,no
+KA08,outer,artificial,drilling,2,no
+KA09,outer,artificial,drilling,2,no
+KA15,outer,real,lifetime test,1,no
+KA16,outer,real,lifetime test,2,no
+KA22,outer,real,lifetime test,1,no
+KA30,outer,real,lifetime test,1,no
+KB23,combined,real,lifetime test,2,no
+KB24,combined,real,lifetime test,3,no
+KB27,combined,real,lifetime test,1,no
+KI01,inner,artificial,EDM,1,no
+KI03,inner,artificial,electric engraver,1,no
+KI04,inner,real,lifetime test,1,no
+KI05,inner,artificial,electric engraver,1,no
+KI07,inner,artificial,electric engraver,2,no
+KI08,inner,artificial,electric engraver,2,no
+KI14,inner,real,lifetime test,1,no
+KI16,inner,real,lifetime test,3,no
+KI17,inner,real,lifetime test,1,no
+KI18,inner,real,lifetime test,2,no
+KI21,inner,real,lifetime test,1,no

@@ -130,8 +130,8 @@ code is used by the viewer, the notebooks and the planned feature pipeline.
 
 ## Next steps
 
-- **Feature extraction in parallel** (`multiprocessing`) over windowed signals:
-  envelope-spectrum amplitudes at fault orders, RMS, kurtosis.
+- **Feature extraction:** envelope-spectrum amplitudes at fault orders, RMS
+  and kurtosis, vectorised over windows (NumPy / `torch.fft` on GPU).
 - **Fault classification with an honest evaluation:** train/validation/test
   split *per bearing* (not per measurement, which leaks), class weights for the
   imbalance, balanced accuracy and confusion matrices.
